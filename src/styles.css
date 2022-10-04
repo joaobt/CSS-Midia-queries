@@ -1,0 +1,11 @@
+.container 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content 
+{
+    background-image: linear-gradient(to right, rgb(68, 1, 177,), rgba(82, 8, 255));
+}
